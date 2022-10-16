@@ -227,7 +227,7 @@ def banner():
 ▐█▌██▐█▌▐█▄▪▐█ ▐█▌·▐█ ▪▐▌    ▪▐█·█▌▐███▌ 
 ▀▀▀▀▀ █▪ ▀▀▀▀  ▀▀▀  ▀  ▀     •▀▀ ▀▀·▀▀▀  {P2}just {P2}updated {P2}version {kontol_rich}0.4""",width=80,padding=(0,5),style=f"{color_table}"))
    
-rich process_data():
+def process_data():
     sleep(0.08)
     	
 try:
