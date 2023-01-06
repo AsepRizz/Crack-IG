@@ -23,4 +23,15 @@ $ cd Crack-IG
 
 $ python Asep-IG.py
 
-#Selamat mencoba😁
+# Wajib Dibaca
+
+1.Kalau spam IP mode pesawat 5 detik
+
+2.ambil Cookie Di kiwi browser
+
+3.Dosa tanggung sendiri
+
+4.kalau emang lu tolol ngga bisa ambil 
+  Cookie chat gw biar gw kasih
+
+# Thanks For Myself
