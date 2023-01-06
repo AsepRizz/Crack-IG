@@ -13,7 +13,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ pip install request
+$ pip install requests
 
 $ pip install futures
 
